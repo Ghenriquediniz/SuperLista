@@ -15,7 +15,7 @@ Um aplicativo com layout minimalista, moderno e funcional para organizar suas co
 - [Flutter](https://flutter.dev/) (SDK principal)
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 - [Cloud Firestore](https://firebase.google.com/products/firestore)
-- [Flutter BLoC (opcional)](https://bloclibrary.dev/) (gestão de estado, se usar)
+- [Flutter BLoC](https://bloclibrary.dev/) 
 - [Material Design](https://m3.material.io/)
 
 ## Tela de Login
